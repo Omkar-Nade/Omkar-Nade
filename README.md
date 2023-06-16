@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Hi, my name is omkar nade and I'm 22 years old.I'm currently pursuing a career in B-Tech (computer science and engineering with specialisation in cyber security and digital forensic ) at Vellore Institute of Technology and have been developing my skills in programming, software development.
+
 <!--
 **Omkar-Nade/Omkar-Nade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
